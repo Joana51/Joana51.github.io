@@ -11,3 +11,5 @@ Sitio estático para GitHub Pages. Archivos: `index.html`, `styles.css`, `script
 5. En **Settings > Pages**, elige **Deploy from a branch**, rama **main**, carpeta **/(root)**. Tu sitio quedará en `https://joana51.github.io/`.
 
 Si eliges otro nombre de repositorio como `portfolio`, la dirección será `https://joana51.github.io/portfolio/`.
+
+La fotografía debe llamarse `profile.jpeg` y estar junto a `index.html`. El correo de contacto es joana.castro@utec.edu.pe.
