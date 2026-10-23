@@ -1,0 +1,4 @@
+Sube los cuatro archivos directamente a la raiz del repositorio Joana51.github.io.
+index.html, glaciar-v6.css, glaciar-v6.js y joana-retrato-v6.jpg
+No subas solo el ZIP y no subas una carpeta contenedora.
+Despues de Commit changes, abre https://joana51.github.io/?v=6
