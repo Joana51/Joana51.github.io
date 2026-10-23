@@ -1,0 +1,12 @@
+JOANA PORTAFOLIO V5
+
+1. Guarda tu foto original como joana-foto.jpg (JPG verdadero).
+2. En GitHub, repositorio Joana51.github.io, sube DIRECTAMENTE a la raiz:
+   index.html, oceano-v5.css, oceano-v5.js y joana-foto.jpg.
+3. Selecciona Commit changes. No hace falta borrar archivos antiguos: index.html referencia solo los nombres nuevos.
+4. Abre https://joana51.github.io/?v=5 y pulsa Ctrl+F5 si fuera necesario.
+
+El titulo de contacto debe decir: ¿Creamos algo que ayude a los demás?
+La imagen se muestra completa, sin recorte de rostro, en marco rectangular redondeado.
+
+Nota: Esta descarga NO incluye la fotografia personal. Debes subir la imagen original por separado, como joana-foto.jpg.
